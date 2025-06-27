@@ -27,7 +27,7 @@ The dataset includes metadata and audio features of thousands of Spotify tracks:
 ## ⚙ Installation
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn plotly
+pip install numpy pandas matplotlib seaborn scikit-learn plotly
 
 🧑‍💻 Author
 
