@@ -28,3 +28,18 @@ The dataset includes metadata and audio features of thousands of Spotify tracks:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn plotly
+
+🧑‍💻 Author
+
+Anshika Saini
+Data Science Intern | Aspiring Machine Learning Engineer
+📍India
+
+
+---
+
+🔗 License
+
+This project is licensed under the MIT License.
+
+
