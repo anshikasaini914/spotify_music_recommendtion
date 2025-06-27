@@ -9,8 +9,8 @@ This project builds a *Spotify music recommendation system* by analyzing audio f
 - Recommends songs based on *audio feature similarity*
 - Uses both *K-Means* and *DBSCAN* clustering algorithms
 - Preprocessing with Z-score normalization
-- Interactive visualizations using *Seaborn* and *Plotly*
-- Built with *pandas, **numpy, **matplotlib, **scikit-learn*
+- Interactive visualizations  *Plotly*
+- Built with *pandas, **numpy, **matplotlib, **sklearn*
 
 ---
 
@@ -27,7 +27,7 @@ The dataset includes metadata and audio features of thousands of Spotify tracks:
 ## ⚙ Installation
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn plotly
+pip install numpy pandas matplotlib sklearn plotly
 
 🧑‍💻 Author
 
