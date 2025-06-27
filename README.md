@@ -10,7 +10,7 @@ This project builds a *Spotify music recommendation system* by analyzing audio f
 - Uses both *K-Means* and *DBSCAN* clustering algorithms
 - Preprocessing with Z-score normalization
 - Interactive visualizations  *Plotly*
-- Built with *pandas, **numpy, **matplotlib, **sklearn*
+- Built with *pandas, **numpy, **matplotlib, **scikit-learn*
 
 ---
 
@@ -27,7 +27,7 @@ The dataset includes metadata and audio features of thousands of Spotify tracks:
 ## ⚙ Installation
 
 ```bash
-pip install numpy pandas matplotlib sklearn plotly
+pip install numpy pandas matplotlib sickit-learn plotly
 
 🧑‍💻 Author
 
